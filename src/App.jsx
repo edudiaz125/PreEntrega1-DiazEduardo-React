@@ -7,7 +7,7 @@ function App() {
   return( 
   <> 
   <NavBar/>
-  <ItemListContainer greeting ="Bienvenido"/>
+  <ItemListContainer greeting ="¡COMPRÁ NUESTROS PRODUCTOS CON DESCUENTO Y RECIBILOS HOY MISMO!"/>
   </>
   )
 }
