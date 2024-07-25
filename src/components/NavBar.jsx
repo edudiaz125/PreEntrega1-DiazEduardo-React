@@ -31,6 +31,7 @@ export const NavBar = () => {
                 Accesorios
               </NavDropdown.Item>
             </NavDropdown>
+            <Nav.Link href="#action6">Pianos&Teclados</Nav.Link>
             <Nav.Link href="#" disabled>
               Pianos&Teclados
             </Nav.Link>
