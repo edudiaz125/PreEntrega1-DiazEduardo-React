@@ -33,7 +33,7 @@ export const NavBar = () => {
             </NavDropdown>
             <Nav.Link href="#action6">Pianos&Teclados</Nav.Link>
             <Nav.Link href="#" disabled>
-              Pianos&Teclados
+              Amplificadores
             </Nav.Link>
           </Nav>
           <Form className="d-flex">
